@@ -1,5 +1,3 @@
-# hangman_game.py
-
 import random
 from replit import clear
 from hangman_art import stages, logo
